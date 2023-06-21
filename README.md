@@ -1,1 +1,2 @@
 # 911call-analysis-visualisation
+This GitHub project aims to provide a comprehensive analysis and visualization of emergency 911 calls using Python. The dataset used in this project contains information about emergency calls made to 911 services, including the type of emergency, location, and timestamp. By leveraging the power of Python libraries, we can gain valuable insights from the data and create intuitive visualizations to better understand emergency call patterns.
